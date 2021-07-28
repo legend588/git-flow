@@ -1,2 +1,2 @@
-make develop
+make develop develop×¼±¸³åÍ»
 update develop
